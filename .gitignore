@@ -1,0 +1,14 @@
+
+# Arquivos gerados pelo Maven
+target/
+
+# Arquivos compilados Java
+*.class
+
+# Configurações locais de IDE
+.idea/
+*.iml
+
+# Arquivos temporários do Windows
+Thumbs.db
+Desktop.ini
